@@ -1,0 +1,18 @@
+/*
+This is what I have so far.
+*/
+
+
+public class 02: PC 07
+{
+   public static void main(String[] args)
+   {
+      double purchase      //customer's purchase amount ($)
+      double state         //the percent of sales tax for state (4%)
+      double county        //the percent of sales tax for county (2%)
+      
+  }
+}  
+
+
+// Now do I plug in the value? Or a new method?
